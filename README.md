@@ -1,2 +1,0 @@
-# curd-plugin
-curd-plugin
